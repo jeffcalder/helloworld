@@ -1,0 +1,1 @@
+git fetch / merge is manual to merge to local remote master, git pull does both fetch and merge for you
